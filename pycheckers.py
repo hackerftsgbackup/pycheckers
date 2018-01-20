@@ -3,6 +3,9 @@
 
 
 """
+
+"Apenas para estudo, suas opiniões não refletem sobre a minha."
+
 ___________________________________
 #                                 #
 #     PyCheckers por d3z3n0v3     #
